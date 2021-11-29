@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184336102596",
+    "project_id": "newsapp-ca08b",
+    "storage_bucket": "newsapp-ca08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184336102596:android:8770558d1ebf3596c54591",
+        "android_client_info": {
+          "package_name": "com.nasywa.newsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184336102596-9dettgvmmc2p3idstjk128t5kc4ut412.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfG4aUtl868q8xUxImoAIIYcT7Nj2OWgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184336102596-9dettgvmmc2p3idstjk128t5kc4ut412.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
